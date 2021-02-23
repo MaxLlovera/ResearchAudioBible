@@ -30,6 +30,20 @@ Stardew Valley:
 
 [![StardewValleyOST](https://img.youtube.com/vi/FQSHcl6TJb4/0.jpg)](https://www.youtube.com/watch?v=FQSHcl6TJb4 "StardewValleyOST")
 
+-For bigger projects, its also important the **Instrumentation** and how to **Record** the audio. We will need a simple piano for our game, or a big orchestra with lots of instruments, or any other type of instruments. This also will define the kind of game are you looking to create.
+
+-The designers have to decide **when the music is played**, if its continuously playing during all game, in some scenes or short-cuts, on an specific area…
+
+Watch this video where diferent musics sounds depending on what is happening:
+Minutes: 
+00:57
+04:55
+08:20
+09:47
+10:30
+
+[![FF7](https://img.youtube.com/vi/KhSicdniIng/0.jpg)](https://www.youtube.com/watch?v=KhSicdniIng "FF7")
+
 ## 2. Sound-Design
 
 ## 3. Voice-Over
