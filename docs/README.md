@@ -121,11 +121,13 @@ Otherwise, if you are looking for a more relaxing and artistic game, Journey is 
 
 # Audio Organization and Naming
 
-When designing and developing a video game, a clear naming and organization will be crucial for you and your team members to find all you need and don’t lose anything. There is not only a way to do this, but it’s very important for keeping your audio organized.
+When designing and developing a video game, a clear naming and organization will be crucial for you and your team members to find all you need and don’t lose anything. 
+
+There is not only a way to do this, but it’s very important for keeping your audio organized, finding all files, not losing anything, don't waste useful time...
 
 Here we can see how music assets can be organized on a table:
 
-[![audioTable](images/music.PNG)
+![audioTable](images/music.PNG)
 
 -First column for Asset ID, **AM(for Audio Music)__(Number of the file)**
 
@@ -135,9 +137,14 @@ Here we can see how music assets can be organized on a table:
 
 This table can be done for every audio type, music, ambient sounds, weapon sounds, enemy sounds etc...
 
-[![ambienceTable](images/ambience.PNG)
+![ambienceTable](images/ambience.PNG)
 
-[![weaponTable](images/weapons.PNG)
+![weaponTable](images/weapons.PNG)
 
 # Bibliography
 
+[Rocket Powered Hippo - Sound Design Document](https://issuu.com/rocket_powered_hippo/docs/sounddesignfinal)
+
+[Zachary Quarles Blog](https://annesoaudio.com/category/category-1/game-audio/page/2/)
+
+[Game Audio and Digital Art Blog](http://zacharyquarles.com/blog/?p=518)
