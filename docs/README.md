@@ -141,6 +141,10 @@ This table can be done for every audio type, music, ambient sounds, weapon sound
 
 ![weaponTable](images/weapons.PNG)
 
+# Template
+
+[Link to template](https://github.com/MaxLlovera/Research_Audio_Bible/tree/main/template)
+
 # Bibliography
 
 [Rocket Powered Hippo - Sound Design Document](https://issuu.com/rocket_powered_hippo/docs/sounddesignfinal)
