@@ -19,7 +19,7 @@ So we have to make sure we consider all the elements needed to create a complete
 ## 1. Music
 
 -We have to decide which music **Style** want for our game, depending on what type of game and public we are looking for. We want a relaxing game with relaxing music or more exciting music that maintains the player in constant action.
-
+[audio1](audio/Doom.mp3)
 ![picture1](images/Doom_cover.png)
 
 ![picture2](images/stardew_valley.png)
