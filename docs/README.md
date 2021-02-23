@@ -8,6 +8,8 @@ If you watch this video on mute, audio automaticaly will sound in your head:
 
 [![Super Mario W1-1](https://img.youtube.com/vi/https://W9x_nNjU9xs/0.jpg)](https://www.youtube.com/watch?v=W9x_nNjU9xs)
 
+[link text](https://www.youtube.com/watch?v=W9x_nNjU9xs)
+
 *“Remember that audio is like a painting. A host of multiple elements (or “colors”) form and combine to create a larger picture.”*
 says the Sound Designer Zachary Quarles on his blog about Writing an Audio Design Document.
 
