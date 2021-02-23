@@ -97,6 +97,27 @@ Minute 00:15
 
 ## 4. Technology
 
+-Its important to know the limits of the platform/program.
+
+-Will we need lots of audio channels?
+
+-How are we getting the audio? It will sound and fit perfectly as you thought?
+
 # Reference materials and Inspiration
 
+Having a reference when deciding what audios you will need, helps to get to objectives and goals that we are looking for.
+
+Some short clip sounds can help to create the sound you are looking for. If you are creating a raindrop, footsteps on snow, waterfall, etc.… this can help.
+
+Also some other video-games or films can be a reference for your video-game if you are looking for a similar music or sounds.
+
+If you are looking for an open world multiplayer RPG, you can get inspiration for exaple from World of Warcraft:
+
+[![WOW](https://img.youtube.com/vi/gQFOLOur1jM/0.jpg)](https://www.youtube.com/watch?v=gQFOLOur1jM "WOW")
+
+On the other hand, if you are looking for a more relaxing and artistic game, Journey is a good example:
+
+[![Journey](https://img.youtube.com/vi/M3hFN8UrBPw/0.jpg)](https://www.youtube.com/watch?v=M3hFN8UrBPw "Journey")
+
 # Audio Organization and Naming
+
