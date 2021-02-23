@@ -145,6 +145,6 @@ This table can be done for every audio type, music, ambient sounds, weapon sound
 
 [Rocket Powered Hippo - Sound Design Document](https://issuu.com/rocket_powered_hippo/docs/sounddesignfinal)
 
-[Zachary Quarles Blog](https://annesoaudio.com/category/category-1/game-audio/page/2/)
+[Zachary Quarles Blog](http://zacharyquarles.com/blog/?p=518)
 
-[Game Audio and Digital Art Blog](http://zacharyquarles.com/blog/?p=518)
+[Game Audio and Digital Art Blog](https://annesoaudio.com/category/category-1/game-audio/page/2/)
