@@ -115,9 +115,15 @@ If you are looking for an open world multiplayer RPG, you can get inspiration fo
 
 [![WOW](https://img.youtube.com/vi/gQFOLOur1jM/0.jpg)](https://www.youtube.com/watch?v=gQFOLOur1jM "WOW")
 
-On the other hand, if you are looking for a more relaxing and artistic game, Journey is a good example:
+Otherwise, if you are looking for a more relaxing and artistic game, Journey is a good example:
 
 [![Journey](https://img.youtube.com/vi/M3hFN8UrBPw/0.jpg)](https://www.youtube.com/watch?v=M3hFN8UrBPw "Journey")
 
 # Audio Organization and Naming
+
+When designing and developing a video game, a clear naming and organization will be crucial for you and your team members to find all you need and don’t lose anything. There is not only a way to do this, but it’s very important for keeping your audio organized.
+
+Here we can see how music assets can be organized on a table:
+
+
 
