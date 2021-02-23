@@ -24,16 +24,11 @@ Look this 2 examples of diferent styles:
 
 Doom:
 
-![audio1](audio/Doom.mp3)
-
-![picture1](images/Doom_cover.png)
+[![DoomOST](https://img.youtube.com/vi/BSsfjHCFosw/0.jpg)](https://www.youtube.com/watch?v=BSsfjHCFosw "DoomOST")
 
 Stardew Valley:
 
-![audio2](audio/StardewValley.mp3)
-
-![picture2](images/stardew_valley.png)
-
+[![StardewValleyOST](https://img.youtube.com/vi/FQSHcl6TJb4/0.jpg)](https://www.youtube.com/watch?v=FQSHcl6TJb4 "StardewValleyOST")
 
 ## 2. Sound-Design
 
