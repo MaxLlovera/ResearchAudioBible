@@ -125,5 +125,19 @@ When designing and developing a video game, a clear naming and organization will
 
 Here we can see how music assets can be organized on a table:
 
+[![audioTable](images/music.PNG)
 
+-First column for Asset ID, **AM(for Audio Music)__(Number of the file)**
+
+-Second column for file naming, **AA(for Audio Asset)__Music01(type of audio and number)__Mt(description Initials for Main Theme)**
+
+-Third column for a short description of the audio
+
+This table can be done for every audio type, music, ambient sounds, weapon sounds, enemy sounds etc...
+
+[![ambienceTable](images/ambience.PNG)
+
+[![weaponTable](images/weapons.PNG)
+
+# Bibliography
 
