@@ -22,11 +22,11 @@ So we have to make sure we consider all the elements needed to create a complete
 
 Look this 2 examples of diferent styles:
 
-Doom:
+Game: Doom
 
 [![DoomOST](https://img.youtube.com/vi/BSsfjHCFosw/0.jpg)](https://www.youtube.com/watch?v=BSsfjHCFosw "DoomOST")
 
-Stardew Valley:
+Game: Stardew Valley
 
 [![StardewValleyOST](https://img.youtube.com/vi/FQSHcl6TJb4/0.jpg)](https://www.youtube.com/watch?v=FQSHcl6TJb4 "StardewValleyOST")
 
@@ -35,6 +35,8 @@ Stardew Valley:
 -The designers have to decide **when the music is played**, if its continuously playing during all game, in some scenes or short-cuts, on an specific area…
 
 Watch this video where diferent musics sounds depending on what is happening:
+
+Game: Final Fantasy VII
 
 Minutes: 
 
@@ -52,7 +54,46 @@ Minutes:
 
 ## 2. Sound-Design
 
+-We have to know where is the player, what is happening, the world-sound around the player, the game **Ambience**. Is the player in a quite forest alone with the only sound of wind, or is in the middle of a city with lots of cars and people?
+
+-Its very important the audio **feedback** from the players, the weapons, items, abilities, etc.
+We need feedback from item in use, if the player is using some specific weapon. Are these sounds very important in your scene, or more secondary?
+
+-What will the player find on his way to the objective? It will be Monsters, some enemies trying to kill you, some obstacles? Each enemy or obstacle is different, so we have to know how they are to decide witch sounds will fit witch each one.
+
+-It is needed that each **visual effect** has a sound. An explosion, some raindrops, river going down a mountain.
+
+-The **player** have it’s own sounds, its footsteps, shout of pain, its exhaustion while running, death…
+
+In this two videos we can hear the ambience Sound on a forest, different weapons sounds, the different sounds that different monsters do depending on their form/agresivity/power...:
+
+Game: The Forest
+
+[![Forest1](https://img.youtube.com/vi/1mrW0BnNIQA/0.jpg)](https://www.youtube.com/watch?v=1mrW0BnNIQA "Forest1")
+
+[![Forest2](https://img.youtube.com/vi/DeholeI7okk/0.jpg)](https://www.youtube.com/watch?v=DeholeI7okk "Forest2")
+
 ## 3. Voice-Over
+
+-Is there a Story told by a narrator? Voices during game-play?
+
+-We need a big cast for all voices? Which kind of voices do we need? Age, gender, etc.
+
+-Some characters, monsters, machines, need some Special effect Voices, sometimes is necessary doing some sound processing.
+
+In this two videos we can see the difference between a story told by a narrator and a story told during gameplay by the player:
+
+Game: Darkest Dungeon
+
+Minute 00:12
+
+[![DD](https://img.youtube.com/vi/QlRBzoKN4NY/0.jpg)](https://www.youtube.com/watch?v=QlRBzoKN4NY "DD")
+
+Game: GTA V 
+
+Minute 00:15
+
+[![GTA](https://img.youtube.com/vi/dq_d0sw4EqQ/0.jpg)](https://www.youtube.com/watch?v=dq_d0sw4EqQ "GTA")
 
 ## 4. Technology
 
