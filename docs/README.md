@@ -35,11 +35,17 @@ Stardew Valley:
 -The designers have to decide **when the music is played**, if its continuously playing during all game, in some scenes or short-cuts, on an specific area…
 
 Watch this video where diferent musics sounds depending on what is happening:
+
 Minutes: 
+
 00:57
+
 04:55
+
 08:20
+
 09:47
+
 10:30
 
 [![FF7](https://img.youtube.com/vi/KhSicdniIng/0.jpg)](https://www.youtube.com/watch?v=KhSicdniIng "FF7")
